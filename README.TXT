@@ -11,7 +11,7 @@ JAVASCRIPT;
 
 Repositorio
 
-Git:
+Github:https://github.com/samuel0998/Tatoo_Studio_DivinaDor
 link:https://flourishing-halva-fc10ea.netlify.app/
 
 STATUS: INCOMPLETO
