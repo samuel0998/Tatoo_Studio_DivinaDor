@@ -1,0 +1,18 @@
+@import "./global.css";
+@import "./header.css";
+@import "./componentes.css";
+@import "./tipografia.css";
+@import "./cores.css";
+@import "./footer.css";
+
+
+/* home */
+@import "./home/introdução.css";
+@import "./home/listadeestilo.css";
+@import "./home/info.css";
+@import "./home/depoimento.css";
+
+
+/* Artistas */
+
+@import "./Artistas/artistas.css"
