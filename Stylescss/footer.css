@@ -60,6 +60,13 @@ margin-top: 16px;
  .footer-info a:hover::after {
      width: 160px;
  }
+
+
+.logo-footer {
+    height: 250px;
+    
+    
+}
  
 
 @media (max-width: 800px) {
