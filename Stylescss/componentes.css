@@ -73,3 +73,22 @@
 .botao2:hover {
     background-color: var(--cor-9);
 }
+
+.botao.seta::after{
+    content: "";
+    height: 10px;
+    width: 18px;
+    display: inline-block;
+    margin-left: 12px;
+    background: url(../img/icones/seta.svg);
+    transition: transform 0.2s;
+}
+
+.botao.seta {
+    display: flex;
+    align-items: center;
+}
+
+.botao.seta:hover::after {
+    transform: translateX(4px)
+}

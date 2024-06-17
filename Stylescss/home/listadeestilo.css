@@ -42,16 +42,23 @@ h2 span {
     margin-bottom: 8px;
     display: flex;
     align-items: center;
+    transition: transform 0.2s;
 }
 
 .estilos-lista h3::before {
     content: "";
     display: inline-block;
-    background-color: #FFBD59;
+    background-color: var(--cor-p1);
     height: 8px;
     width: 12px;
-    
+    margin-right: 8px;
+    transition: transform 0.2s;
 }
+
+.estilos-lista h3:hover::before , .estilos-lista h3:hover {
+  transform: translateX(8px);
+}
+
 
 .estilos-lista li span {
   padding-left: 8px;

@@ -16,8 +16,12 @@
 /* Artistas */
 
 @import "./Artistas/artistas.css";
-@import "./Sobre/sobre.css"
 
 /* Sobre nos */
 
+@import "./Sobre/sobre.css";
+
+/* Sobre nos */
+
+@import "./estilo/Estilo.css";
 
