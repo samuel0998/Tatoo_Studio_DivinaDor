@@ -23,7 +23,7 @@
 }
 
 .header-menu a{
-    color: #ffff ;
+    color: var(--cor-2) ;
     display: inline-block;
     padding: 16px 0px ;
     font-size: 18px;
@@ -47,6 +47,11 @@
  .header-menu a:hover::after {
      width: 100%;
  }
+ 
+ .header-menu a:hover{
+    color: var(--cor-0);
+ }
+
 
 
 @media (max-width: 600px) {
