@@ -1,0 +1,12 @@
+.aquarela{
+    background-color: var(--cor-11);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.aquarela-img img {
+    height: 600px;
+}
+
+
+

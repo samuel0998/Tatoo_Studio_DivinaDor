@@ -28,3 +28,7 @@
 /* pagina artistas perguntas*/
 
 @import "./Artistas/perguntas.css";
+
+/* estilo aquarela*/
+
+@import "./estilo/Aquarela.css";
