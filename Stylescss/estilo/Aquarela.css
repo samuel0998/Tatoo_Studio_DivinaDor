@@ -1,12 +1,42 @@
-.aquarela{
+.aquarela {
     background-color: var(--cor-11);
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 20px
 }
 
 .aquarela-img img {
-    height: 600px;
+    height: 400px;
+    flex: 1;
+    min-width: 200px;
+    
 }
 
+
+.aquarela-img img:first-child {
+    min-width: 100%;
+}
+
+.aquarela-img {
+    display: flex;  
+    flex-wrap: wrap;
+    gap: 20px ;
+    height: 800px;
+
+}
+
+
+.aquarela-conteudo  p,h3,ul{
+    margin-bottom: 18px;
+}
+
+.aquarela-conteudo li{
+    margin-top: 18px;
+    color: var(--cor-6)
+}
+
+.aquarela a {
+    margin-top: 18px;
+}
 
 
