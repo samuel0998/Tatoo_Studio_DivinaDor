@@ -32,3 +32,9 @@
 /* estilo aquarela*/
 
 @import "./estilo/Aquarela.css";
+
+/* pagina orçamento */
+
+@import "./orçamento/contato.css";
+@import "./orçamento/lojas.css";
+@import "./orçamento/formulario.css";

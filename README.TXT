@@ -12,7 +12,7 @@ JAVASCRIPT;
 Repositorio
 
 Github:https://github.com/samuel0998/Tatoo_Studio_DivinaDor
-link:https://flourishing-halva-fc10ea.netlify.app/
+link:https://main--divinadorstudiotatootesting.netlify.app/
 
 STATUS: INCOMPLETO
 
